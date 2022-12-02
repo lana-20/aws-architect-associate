@@ -1,5 +1,5 @@
 # AWS Solutions Architect Accosiate
-[Services Summary](https://drive.google.com/drive/u/0/search?q=aws) / [Interview Q&A](https://github.com/lana-20/aws-questions/blob/main/AWS%20Cloud%20-%20Associate%20Architect%20Q%26A.pdf)
+[Services Summary](https://drive.google.com/file/d/1YQzhqCdMuZ-xdOKSdo1Q6IhzfQWGdE4z/view?usp=sharing) / [Interview Q&A](https://github.com/lana-20/aws-questions/blob/main/AWS%20Cloud%20-%20Associate%20Architect%20Q%26A.pdf)
 
 Cloud computing  has become the norm among enterprises that want more flexibility, greater efficiencies, lower costs, and improved disaster recovery. 
 AWS is the dominant cloud service provider, holding 40% of the market share. From $3.1 billion in 2013 to over $62 billion in 2021, the revenue growth of AWS has been steady, to say the least. 
